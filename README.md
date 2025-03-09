@@ -1,3 +1,7 @@
+# NLP Seminar Schedule
+- Current maintainer: [Zhaoyi / Joey](https://joeyhou.github.io)
+
+## Original Readme
 Free Responsive HTML5 Template
 
 Above Educational Bootstrap Responsive template is a modern clean multi-purpose html5 template built with valid HTML5 & CSS3. It's build on top of latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like Educational Institutes, colleges, Schools, e-Learning, Training centre, Tutors, Charity, Primary School, business, consultancy, agency, personal portfolio, profile and mobile website.
