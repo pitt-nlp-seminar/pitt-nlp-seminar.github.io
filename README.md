@@ -1,5 +1,5 @@
 # NLP Seminar Schedule
-- Current maintainer: [Zhaoyi / Joey](https://joeyhou.github.io)
+- Current maintainer: [Zhaoyi / Joey](https://joeyhou.github.io/)
 
 ## Original Readme
 Free Responsive HTML5 Template
